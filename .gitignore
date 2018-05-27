@@ -1,0 +1,10 @@
+# Use wildcards as well
+*~
+*.aux
+*.lof
+*.log
+*.lot
+*.out
+*.pdf
+*.gz
+*.toc
